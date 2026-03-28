@@ -1,0 +1,27 @@
+# CSAPP Course
+
+This is my personal repo for resource when learning CS\:APP3e like labs, slides, recitations, etc. 
+
+Official CSAPP site: [CS:APP3e, Bryant and O'Hallaron (cmu.edu)](http://csapp.cs.cmu.edu/3e/students.html)
+
+Video: [2015 CMU 15-213 CSAPP 深入理解计算机系统 课程视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iW411d7hd)
+
+The slides are taken from CMU website ([15-213/15-513/14-513 Introduction to Computer Systems: Resources (cmu.edu)](http://www.cs.cmu.edu/~213/resources.html)) at seminar of fall 2015, spring 2023 and summer 2023(the last lecture slide). 
+
+
+
+## Lab Progress
+
+- [ ] 1. Data Lab
+- [ ] 2. Bomb Lab
+- [ ] 3. Attack Lab
+- [ ] 4. Architecture Lab
+- [ ] 5. Cache Lab
+- [ ] 6. Performance Lab
+- [ ] 7. Shell Lab
+- [ ] 8. Malloc Lab
+- [ ] 9. Proxy Lab
+
+The 4th and 6th labs are not introduced and assigned in the video course and are book-exclusive. Maybe one day I will finish them ~~(or never)~~.
+
+The solution and README are in the Labs/\{LabNum_LabName\} folder. The README within each solved lab folder records my thought of solving steps, and some resources to reference.
